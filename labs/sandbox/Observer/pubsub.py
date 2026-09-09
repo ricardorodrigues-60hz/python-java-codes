@@ -2,6 +2,7 @@
 # http://www.code2succeed.com/pub-sub/
 # https://www.oreilly.com/library/view/learning-javascrip-
 # https://en.wikipedia.org/wiki/Publish-sub
+# https://youtu.be/sbCJucr8aJg?list=PLOQgLBuj2-3IPHFlBmqhtbM4vLJg9tob4
 
 
 from typing import Dict, Set, List
